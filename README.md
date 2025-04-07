@@ -45,6 +45,7 @@ pip install -r requirements.txt
 ```ini
 # Django
 DJANGO_SECRET_KEY=django-insecure-key
+DEBUG=true
 
 # Database
 LOCAL=true
