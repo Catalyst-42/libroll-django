@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 echo "Build packages"
 python3 -m pip install -r requirements.txt
 
