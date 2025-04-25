@@ -68,5 +68,5 @@ python manage.py runserver
 
 <!-- TODO:
  - [x] This was made very poor and with DeepSeek. Cuz Copilot now works wery bad, alaways gives errors... :(
- - [ ] Make it alive from vercel
+ - [x] Make it alive from Vercel
  -->
